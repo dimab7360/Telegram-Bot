@@ -1,5 +1,5 @@
 # Telegram-Bot
-Simply Telegram Bot for show my work with telegram API. This bot will not hosted. Showed funcional in screenshots:
+Simply Telegram Bot for show my work with telegram API. This bot will not hosted and work just with local file. Showed funcional in screenshots:
 ![image](https://github.com/dimab7360/Telegram-Bot/assets/47431759/c0ecce71-a5c5-41a4-a054-0e4d4b0c2347)
 ![image](https://github.com/dimab7360/Telegram-Bot/assets/47431759/a3a0598e-33a9-434f-a140-c1a29854d17a)
 ![image](https://github.com/dimab7360/Telegram-Bot/assets/47431759/c5be274b-07ee-4b81-8044-f2fac9c84c7f)
